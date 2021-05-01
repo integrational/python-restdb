@@ -1,0 +1,18 @@
+= API Invocations using `requests` and restdb.io
+
+[source,sh]
+----
+# initially:
+./setup.sh
+# dev-only: repeatedly:
+./install-upgrade.sh
+# initially:
+./install-requs.sh
+# to run:
+./run.sh <restdb-api-key>
+----
+
+Swagger API spec: https://greetings-7eaa.restdb.io/rest/_swagger.json
+
+See https://docs.python-requests.org/en/master/user/quickstart/
+See https://restdb.io/docs/quick-start
